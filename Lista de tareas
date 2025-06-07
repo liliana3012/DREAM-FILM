@@ -1,0 +1,20 @@
+# Lista de Tareas Cinematográficas 🎬
+
+Aplicación para gestionar una lista de películas para crear, en progreso o ya terminadas.
+
+## Funcionalidades
+
+- Agregar películas
+- Marcar como "crear" o "terminar"
+- Eliminar películas
+- Filtros por estado o género
+- Interfaz simple y responsiva
+
+## Herramientas utilizadas
+
+- HTML, Python
+- Git y GitHub para control de versiones
+
+## Integrante
+
+- [Georgina Liliana Pérez Hernández](https://github.com/usuario)
